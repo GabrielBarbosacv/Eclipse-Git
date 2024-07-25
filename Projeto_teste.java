@@ -1,0 +1,19 @@
+/**
+ * 
+ */
+package projeto;
+
+/**
+ * 
+ */
+public class Projeto_teste {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
